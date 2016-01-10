@@ -1,7 +1,7 @@
 name: Edmonton Wedding Photographer
 favicon: null
-layout_spectrum: 0.8362757789436728
-typography_spectrum: 0.3169521242380142
+layout_spectrum: 0.2547
+typography_spectrum: 0.50118
 title: Instant Memories Photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6834168862551451
+    - '#08080b'
+    - '#eaf1fb'
+    - '#a0b8e4'
+    - '#6685be'
+    - '#f1d23a'
+  brandStrength: 0.5
   lightness: 0.051084715174511075
-  saturation: 0.41399798705242574
+  saturation: 0.375
   rhythmicContrast: 0.7841874191071838
 purpose: []
